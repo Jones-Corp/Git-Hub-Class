@@ -1,7 +1,7 @@
 Metz
 París
 Marsella
-Florencia
+Versalles
 Tallin
 Lancaster
 Varsovia
@@ -9,3 +9,4 @@ Luxemburgo
 Berlín
 Londres
 Leicester
+Lyon
